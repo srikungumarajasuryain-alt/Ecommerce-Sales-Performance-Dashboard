@@ -1,0 +1,101 @@
+ProductID,ProductName,Category,SubCategory,Price,Cost
+P001,Dell Inspiron 15,Electronics,Laptop,65000,52000
+P002,HP Pavilion,Electronics,Laptop,58000,47000
+P003,Lenovo ThinkPad,Electronics,Laptop,72000,59000
+P004,Samsung Galaxy S24,Electronics,Mobile,70000,58000
+P005,iPhone 15,Electronics,Mobile,79000,65000
+P006,OnePlus 13,Electronics,Mobile,52000,42000
+P007,Boat Headphones,Electronics,Accessories,2500,1500
+P008,Sony Earbuds,Electronics,Accessories,6000,4200
+P009,Nike Air Max,Fashion,Shoes,8500,5600
+P010,Adidas Sneakers,Fashion,Shoes,7200,4900
+P011,Puma Running Shoes,Fashion,Shoes,6800,4500
+P012,Wooden Office Chair,Furniture,Chair,5500,3900
+P013,Study Table,Furniture,Table,8000,6200
+P014,King Size Bed,Furniture,Bed,28000,22000
+P015,LG Refrigerator,Home Appliances,Refrigerator,45000,36000
+P016,IFB Washing Machine,Home Appliances,Washing Machine,32000,25000
+P017,Prestige Mixer,Home Appliances,Kitchen,3500,2500
+P018,Rice 25kg,Grocery,Food,1600,1300
+P019,Sunflower Oil,Grocery,Oil,2200,1800
+P020,Aashirvaad Atta,Grocery,Food,650,500
+P021,Cricket Bat,Sports,Cricket,4500,3200
+P022,Football,Sports,Football,1800,1200
+P023,Badminton Racket,Sports,Badminton,3200,2400
+P024,Lakme Face Wash,Beauty,Skin Care,350,220
+P025,Nivea Cream,Beauty,Skin Care,280,170
+P026,Mamaearth Shampoo,Beauty,Hair Care,450,300
+P027,Python Programming,Books,Education,650,420
+P028,SQL for Beginners,Books,Education,550,360
+P029,Power BI Guide,Books,Education,780,500
+P030,Dell Inspiron 15,Electronics,Laptop,65000,52000
+P031,HP Pavilion,Electronics,Laptop,58000,47000
+P032,Lenovo ThinkPad,Electronics,Laptop,72000,59000
+P033,Samsung Galaxy S24,Electronics,Mobile,70000,58000
+P034,iPhone 15,Electronics,Mobile,79000,65000
+P035,OnePlus 13,Electronics,Mobile,52000,42000
+P036,Boat Headphones,Electronics,Accessories,2500,1500
+P037,Sony Earbuds,Electronics,Accessories,6000,4200
+P038,Nike Air Max,Fashion,Shoes,8500,5600
+P039,Adidas Sneakers,Fashion,Shoes,7200,4900
+P040,Puma Running Shoes,Fashion,Shoes,6800,4500
+P041,Wooden Office Chair,Furniture,Chair,5500,3900
+P042,Study Table,Furniture,Table,8000,6200
+P043,King Size Bed,Furniture,Bed,28000,22000
+P044,LG Refrigerator,Home Appliances,Refrigerator,45000,36000
+P045,IFB Washing Machine,Home Appliances,Washing Machine,32000,25000
+P046,Prestige Mixer,Home Appliances,Kitchen,3500,2500
+P047,Rice 25kg,Grocery,Food,1600,1300
+P048,Sunflower Oil,Grocery,Oil,2200,1800
+P049,Aashirvaad Atta,Grocery,Food,650,500
+P050,Cricket Bat,Sports,Cricket,4500,3200
+P051,Football,Sports,Football,1800,1200
+P052,Badminton Racket,Sports,Badminton,3200,2400
+P053,Lakme Face Wash,Beauty,Skin Care,350,220
+P054,Nivea Cream,Beauty,Skin Care,280,170
+P055,Mamaearth Shampoo,Beauty,Hair Care,450,300
+P056,Python Programming,Books,Education,650,420
+P057,SQL for Beginners,Books,Education,550,360
+P058,Power BI Guide,Books,Education,780,500
+P059,Dell Inspiron 15,Electronics,Laptop,65000,52000
+P060,HP Pavilion,Electronics,Laptop,58000,47000
+P061,Lenovo ThinkPad,Electronics,Laptop,72000,59000
+P062,Samsung Galaxy S24,Electronics,Mobile,70000,58000
+P063,iPhone 15,Electronics,Mobile,79000,65000
+P064,OnePlus 13,Electronics,Mobile,52000,42000
+P065,Boat Headphones,Electronics,Accessories,2500,1500
+P066,Sony Earbuds,Electronics,Accessories,6000,4200
+P067,Nike Air Max,Fashion,Shoes,8500,5600
+P068,Adidas Sneakers,Fashion,Shoes,7200,4900
+P069,Puma Running Shoes,Fashion,Shoes,6800,4500
+P070,Wooden Office Chair,Furniture,Chair,5500,3900
+P071,Study Table,Furniture,Table,8000,6200
+P072,King Size Bed,Furniture,Bed,28000,22000
+P073,LG Refrigerator,Home Appliances,Refrigerator,45000,36000
+P074,IFB Washing Machine,Home Appliances,Washing Machine,32000,25000
+P075,Prestige Mixer,Home Appliances,Kitchen,3500,2500
+P076,Rice 25kg,Grocery,Food,1600,1300
+P077,Sunflower Oil,Grocery,Oil,2200,1800
+P078,Aashirvaad Atta,Grocery,Food,650,500
+P079,Cricket Bat,Sports,Cricket,4500,3200
+P080,Football,Sports,Football,1800,1200
+P081,Badminton Racket,Sports,Badminton,3200,2400
+P082,Lakme Face Wash,Beauty,Skin Care,350,220
+P083,Nivea Cream,Beauty,Skin Care,280,170
+P084,Mamaearth Shampoo,Beauty,Hair Care,450,300
+P085,Python Programming,Books,Education,650,420
+P086,SQL for Beginners,Books,Education,550,360
+P087,Power BI Guide,Books,Education,780,500
+P088,Dell Inspiron 15,Electronics,Laptop,65000,52000
+P089,HP Pavilion,Electronics,Laptop,58000,47000
+P090,Lenovo ThinkPad,Electronics,Laptop,72000,59000
+P091,Samsung Galaxy S24,Electronics,Mobile,70000,58000
+P092,iPhone 15,Electronics,Mobile,79000,65000
+P093,OnePlus 13,Electronics,Mobile,52000,42000
+P094,Boat Headphones,Electronics,Accessories,2500,1500
+P095,Sony Earbuds,Electronics,Accessories,6000,4200
+P096,Nike Air Max,Fashion,Shoes,8500,5600
+P097,Adidas Sneakers,Fashion,Shoes,7200,4900
+P098,Puma Running Shoes,Fashion,Shoes,6800,4500
+P099,Wooden Office Chair,Furniture,Chair,5500,3900
+P100,Study Table,Furniture,Table,8000,6200
